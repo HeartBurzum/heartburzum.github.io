@@ -2,44 +2,46 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Information Technology Manager skilled in guiding navigation of modern technology.
+Accustomed to driving efficiency and effectiveness by developing, delivering and
+supporting strategic plans. Demonstrated skill in translating technical requirements to
+business solutions. Successful 11-year record of building positive relationships with
+internal and external stakeholders. Complex problem-solver with analytical and driven
+mindset. Dedicated to achieving demanding development objectives according to tight
+schedules while producing impeccable code</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>Linux (Arch, Debian, NixOS)</li>
+	<li>Docker</li>
+	<li>Windows</li>
+	<li>Active Directory</li>
+	<li>Windows Subsystem for Linux</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>SQLAlchemy</li>
+	<li>peewee ORM</li>
+	<li>Flask</li>
+	<li>Go Language</li>
+	<li>Javascript</li>
+	<li>Svelte</li>
+	<li>GraphQL</li>
+	<li>Git</li>
+	<li>Amazon Web Services</li>
+	<li>Digital Ocean</li>
+	<li>Nginx</li>
+	<li>OpenVPN</li>
+	<li>Wireguard</li>
+	<li>Microsoft Office/LibreOffice</li>
+	<li>Discord/Slack API</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/HeartBurzum/thevoid">The Void</a></li>
+	<li><a href="https://github.com/HeartBurzum/myseq">MySEQ legacy</a></li>
 </ul>
