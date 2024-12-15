@@ -37,6 +37,7 @@ schedules while producing impeccable code</p>
 	<li>Wireguard</li>
 	<li>Microsoft Office/LibreOffice</li>
 	<li>Discord/Slack API</li>
+
 </ul>
 
 <h2>Projects</h2>
